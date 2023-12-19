@@ -1,2 +1,2 @@
 # nissan
-oke NissanBarca/index.html
+oke index.html
